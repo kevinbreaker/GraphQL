@@ -1,0 +1,3 @@
+rootProject.name = 'GPQL_With_RN'
+
+include ':app'
